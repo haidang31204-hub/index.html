@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Nghiên cứu MSN",
+    "description": "Nghiên cứu báo cáo tài chính và dòng vốn của Masan",
+    "deadline": "2025-10-25",
+    "reminder": "9:00 sáng 24/10/2025",
+    "group": "Work",
+    "priority": "Medium"
+  },
+  {
+    "title": "Exercise",
+    "description": "Practice pickleball",
+    "deadline": "2025-10-23",
+    "reminder": "9:00 sáng 23/10/2025",
+    "group": "Personal",
+    "priority": "Low"
+  }
+]
